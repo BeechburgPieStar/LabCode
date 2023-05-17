@@ -9,6 +9,7 @@
 |2022|[A Lightweight Decentralized Learning-Based Automatic Modulation Classification Method for Resource-Constrained Edge Devices](https://ieeexplore.ieee.org/document/9844135/)|[MCMBNN](https://github.com/dongbiao321/MCMBNN-for-CentAMC-and-DecentAMC)|
 |2022|[An Effective Radio Frequency Signal Classification Method Based on Multi-Task Learning Mechanism](https://ieeexplore.ieee.org/abstract/document/10012794)|[MTL](https://github.com/LiuK1288/lhw-000)|
 |2022|[Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning](https://ieeexplore.ieee.org/abstract/document/10013044)|[Cross-person-HAR](https://github.com/NJUPT-Sivan/Cross-person-HAR)|
+|2022|[NAS-AMR: Neural Architecture Search-Based Automatic Modulation Recognition for Integrated Sensing and Communication Systems](https://ieeexplore.ieee.org/abstract/document/9762373)|[NAS-AMR](https://github.com/XixiZhang123/NAS-AMR)|
 |2023|[Ultra Lite Convolutional Neural Network for Automatic Modulation Classification](http://arxiv.org/abs/2208.04659)|[ULCNN](https://github.com/BeechburgPieStar/ULCNN)|
 |2023|[Semi-Supervised Specific Emitter Identification Method Using Metric-Adversarial Training](https://ieeexplore.ieee.org/document/10026879)|[MAT-based-SS-SEI](https://github.com/lovelymimola/MAT-based-SS-SEI)|
 |2023|[A Robust Few-Shot SEI Method Using Class-Reconstruction and Adversarial Training](https://ieeexplore.ieee.org/document/10012716)|[CRCN-AT](https://github.com/LIUC-000/CRCN-AT)|
