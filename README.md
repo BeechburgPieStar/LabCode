@@ -8,7 +8,7 @@
 |2023|[Ultra Lite Convolutional Neural Network for Automatic Modulation Classification](http://arxiv.org/abs/2208.04659)|[ULCNN](https://github.com/BeechburgPieStar/ULCNN)|
 |2023|[Semi-Supervised Specific Emitter Identification Method Using Metric-Adversarial Training](https://ieeexplore.ieee.org/document/10026879)|[MAT-based-SS-SEI](https://github.com/lovelymimola/MAT-based-SS-SEI)|
 |2023|[Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization]()|[DCR-Based-SemiSEI](https://github.com/lovelymimola/DCR-Based-SemiSEI)|
-|2023|[Few-shot specific emitter identification using asymmetric masked auto-encoder]()|[A-Method](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem)|
+|2023|[Few-shot specific emitter identification using asymmetric masked auto-encoder]()|[AMAE](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem)|
 |2023|[An efficient RFF extraction method using an asymmetric masked auto-encoder]()|[AnEfficient-RFF-Extraction-Method](https://github.com/YZS666/AnEfficient-RFF-Extraction-Method)|
 |2023|[A Robust Few-Shot SEI Method Using Class-Reconstruction and Adversarial Training](https://ieeexplore.ieee.org/document/10012716)|[CRCN-AT](https://github.com/LIUC-000/CRCN-AT)|
 |2023|[Rogue Emitter Detection Using Hybrid Network of Denoising Autoencoder and Deep Metric Leaming](https://arxiv.org/abs/2212.00242)|[DMNet](https://github.com/yzybeibei/DMNet)|
