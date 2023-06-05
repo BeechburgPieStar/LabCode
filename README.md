@@ -17,11 +17,11 @@
 |2023|[Rogue Emitter Detection Using Hybrid Network of Denoising Autoencoder and Deep Metric Leaming](https://arxiv.org/abs/2212.00242)|[DMNet](https://github.com/yzybeibei/DMNet)|
 |2023|[Multi-Agent Reinforcement Learning Resources Allocation Method Using Dueling Double Deep Q-Network in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10123947/)|[DQN](https://github.com/Ljyx1/paper-codes/tree/master)|
 |2023|[NASEI: Neural Architecture Search-Based Specific Emitter Identification Method]()|[NASEI](https://github.com/huangyuxuan11/NASEI)|
+|2023|[Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization](https://ieeexplore.ieee.org/abstract/document/10139822)|[DCR-Based-SemiSEI](https://github.com/lovelymimola/DCR-Based-SemiSEI)|
 
 ## Under review
 |Year|Paper|Code|
 |  ----  | ----  | ----  | 
-|2023|[Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization]()|[DCR-Based-SemiSEI](https://github.com/lovelymimola/DCR-Based-SemiSEI)|
 |2023|[Few-shot specific emitter identification using asymmetric masked auto-encoder]()|[AMAE](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem)|
 |2023|[An efficient RFF extraction method using an asymmetric masked auto-encoder]()|[Efficient-RFF-Extraction-Method](https://github.com/YZS666/An-Efficient-RFF-Extraction-Method)|
 |2023|[Interpolative Metric Learning for Few-Shot Specific Emitter Identification]()|[IML]()|
