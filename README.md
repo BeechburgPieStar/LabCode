@@ -1,6 +1,3 @@
-# LabCode
-## Published/accepted/publicly-available
-
 <style>
 table th:first-of-type {
     width: 4cm;
