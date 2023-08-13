@@ -32,14 +32,25 @@
 
 ## Contributors
 [Jinhui Ning](https://github.com/yzjh)
+
 [Biao Dong](https://github.com/dongbiao321)
+
 [Hongwei Liu](https://github.com/LiuK1288)
+
 [SiYuan Xu](https://github.com/NJUPT-Sivan)
+
 [Xixi Zhang](https://github.com/XixiZhang123)
+
 [Xue Fu](https://github.com/lovelymimola)
+
 [Chao Liu](https://github.com/LIUC-000)
+
 [Zheyang Yang](https://github.com/yzybeibei)
+
 [Yuxin Ji](https://github.com/Ljyx1)
+
 [Yuxuan Huang](https://github.com/huangyuxuan11)
+
 [Chen Wang](https://github.com/chengJoin)
+
 [Mengyuan Tao](https://github.com/sleepeach)
