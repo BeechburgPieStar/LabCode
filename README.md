@@ -31,4 +31,4 @@
 
 
 ## Contributors
-[Jinhui ning](https://github.com/yzjh)
+[Jinhui Ning](https://github.com/yzjh)
