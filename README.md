@@ -1,5 +1,17 @@
 # LabCode
 ## Published/accepted/publicly-available
+<style>
+table th:first-of-type {
+    width: 4cm;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+    width: 8em;
+}
+</style>
+
 |Year|Paper|Code|
 |  ----  | ----  | ----  | 
 |2021|[An Efficient Specific Emitter Identification Method \\Based on Complex-Valued Neural Networks and Network Compression](https://ieeexplore.ieee.org/abstract/document/9448105)|[SlimSEI](https://github.com/BeechburgPieStar/SlimSEI)|
