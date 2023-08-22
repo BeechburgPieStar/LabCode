@@ -1,5 +1,5 @@
 # LabCode
-## Published/accepted/publicly-availabl
+## Published/accepted/publicly-available
 
 |  Year  | Paper  | Code  | 
 |  ----  | ----  | ----  | 
