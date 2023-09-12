@@ -22,6 +22,7 @@
 |2023|[Interpolative Metric Learning for Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/abstract/document/10190130)|[IML](https://github.com/chengJoin/InterML-for-FS-SEI)|
 |2023|[Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection]()|[SFS-SEI](https://github.com/sleepeach/SFS-SEI)|
 |2023|[Few-shot specific emitter identification using asymmetric masked auto-encoder]()|[AMAE](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem)|
+|2023|[A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-band Spectrum Prediction]()|[A-GCRNN](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)|
 
 ## Under review
 
