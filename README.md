@@ -4,6 +4,9 @@
 ### 2021
 
 *  Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9448105)][[Code](https://github.com/BeechburgPieStar/SlimSEI)]
+
+### 2022
+
 *  Y. Wang, G. Gui, H. Gacanin, B. Adebisi, H. Sari and F. Adachi, "Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 1, pp. 86-96, March 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9456904/)][[Code](https://github.com/BeechburgPieStar/FLAMC)]
 
 |2021|[Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition]()|[FLAMC]()|
