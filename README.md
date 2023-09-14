@@ -21,6 +21,7 @@
 
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification Method Using Metric-Adversarial Training," in IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10778-10789, 15 June15, 2023.[[Paper](https://ieeexplore.ieee.org/document/10026879)][[Code](https://github.com/lovelymimola/MAT-based-SS-SEI)]
 *  C. Liu et al., "A Robust Few-Shot SEI Method Using Class-Reconstruction and Adversarial Training," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/document/10012716)][[Code](https://github.com/LIUC-000/CRCN-AT)]
+*  Y. Huang, X. Zhang, Y. Wang, D. Jiao, G. Gui and T. Ohtsuki, "NASEI: Neural Architecture Search-Based Specific Emitter Identification Method," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5. [[Paper](https://ieeexplore.ieee.org/abstract/document/10199409)][[Code](https://github.com/huangyuxuan11/NASEI)]
 *  Z. Yang, et al., "Rogue Emitter Detection Using Hybrid Network of Denoising Autoencoder and Deep Metric Learning," arXiv preprint arXiv:2212.00242, 2022.[[Paper](https://arxiv.org/abs/2212.00242)][[Code](https://github.com/yzybeibei/DMNet)]
 *  Y. Ji et al., "Multi-Agent Reinforcement Learning Resources Allocation Method Using Dueling Double Deep Q-Network in Vehicular Networks," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3275546.[[Paper](https://ieeexplore.ieee.org/abstract/document/10123947)][[Code](https://github.com/Ljyx1/paper-codes/tree/master)]
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3281668.[[Paper](https://ieeexplore.ieee.org/abstract/document/10139822)][[Code](https://github.com/lovelymimola/DCR-Based-SemiSEI)]
@@ -30,7 +31,6 @@
 ### Accpeted
 *  A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-band Spectrum Prediction.[[Paper]()][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 *  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
-*  NASEI: Neural Architecture Search-Based Specific Emitter Identification Method. [[Paper]()][[Code](https://github.com/huangyuxuan11/NASEI)]
 
 ## Contributors
 [Jinhui Ning](https://github.com/yzjh)
