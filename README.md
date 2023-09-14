@@ -1,5 +1,5 @@
 # LabCode
-## Published/accepted/publicly-available
+## Published/Early Access
 
 ### 2021
 
