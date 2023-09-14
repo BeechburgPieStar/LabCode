@@ -1,6 +1,8 @@
 # LabCode
 ## Published/accepted/publicly-available
 
+Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021. [SlimSEI](https://github.com/BeechburgPieStar/SlimSEI)
+
 |  Year  | Paper  | Code  | 
 |  ----  | ----  | ----  | 
 |2021|[An Efficient Specific Emitter Identification Method \\Based on Complex-Valued Neural Networks and Network Compression](https://ieeexplore.ieee.org/abstract/document/9448105)|[SlimSEI](https://github.com/BeechburgPieStar/SlimSEI)|
