@@ -3,11 +3,11 @@
 
 ### 2021
 
-*  Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021. [[Code](https://github.com/BeechburgPieStar/SlimSEI)]
+*  Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021.[[Paper]((https://ieeexplore.ieee.org/abstract/document/9448105))] [[Code](https://github.com/BeechburgPieStar/SlimSEI)]
 
 |  Year  | Paper  | Code  | 
 |  ----  | ----  | ----  | 
-|2021|[An Efficient Specific Emitter Identification Method \\Based on Complex-Valued Neural Networks and Network Compression](https://ieeexplore.ieee.org/abstract/document/9448105)|[SlimSEI](https://github.com/BeechburgPieStar/SlimSEI)|
+|2021|[An Efficient Specific Emitter Identification Method \\Based on Complex-Valued Neural Networks and Network Compression]|[SlimSEI](https://github.com/BeechburgPieStar/SlimSEI)|
 |2021|[Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition](https://ieeexplore.ieee.org/abstract/document/9456904/)|[FLAMC](https://github.com/BeechburgPieStar/FLAMC)|
 |2022|[Malware Traffic Classification using Domain Adaptation and Ladder Network for Secure Industrial Internet of Things](https://ieeexplore.ieee.org/abstract/document/9632825/)|[Keras-MTC-DA-Ladder](https://github.com/yzjh/Keras-MTC-DA-Ladder)|
 |2022|[Few-Shot Specific Emitter Identification via Deep Metric Ensemble Learning](https://ieeexplore.ieee.org/abstract/document/9846906)|[FS-SEI](https://github.com/BeechburgPieStar/FS-SEI)|
