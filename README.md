@@ -29,7 +29,7 @@
 *  Z. Yao et al., "Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto-Encoder," in IEEE Communications Letters, doi: 10.1109/LCOMM.2023.3312669.[[Paper](https://ieeexplore.ieee.org/abstract/document/10243409)][[Code](https://github.com/sleepeach/SFS-SEI)]
 
 ### Accpeted
-*  A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-band Spectrum Prediction.[[Paper]()][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
+*  A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-band Spectrum Prediction.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 *  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
 
 ## Contributors
