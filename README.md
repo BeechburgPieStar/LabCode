@@ -27,9 +27,9 @@
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3281668.[[Paper](https://ieeexplore.ieee.org/abstract/document/10139822)][[Code](https://github.com/lovelymimola/DCR-Based-SemiSEI)]
 *  C. Wang et al., "Interpolative Metric Learning for Few-Shot Specific Emitter Identification," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3296120.[[Paper](https://ieeexplore.ieee.org/abstract/document/10190130)][[Code](https://github.com/chengJoin/InterML-for-FS-SEI)]
 *  Z. Yao et al., "Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto-Encoder," in IEEE Communications Letters, doi: 10.1109/LCOMM.2023.3312669.[[Paper](https://ieeexplore.ieee.org/abstract/document/10243409)][[Code](https://github.com/sleepeach/SFS-SEI)]
+*  X. Zhang et al., "A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-Band Spectrum Prediction," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3315450.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 
 ### Accpeted
-*  A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-band Spectrum Prediction.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 *  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
 
 ## Contributors
