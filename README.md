@@ -28,6 +28,7 @@
 *  C. Wang et al., "Interpolative Metric Learning for Few-Shot Specific Emitter Identification," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3296120.[[Paper](https://ieeexplore.ieee.org/abstract/document/10190130)][[Code](https://github.com/chengJoin/InterML-for-FS-SEI)]
 *  Z. Yao et al., "Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto-Encoder," in IEEE Communications Letters, doi: 10.1109/LCOMM.2023.3312669.[[Paper](https://ieeexplore.ieee.org/abstract/document/10243409)][[Code](https://github.com/sleepeach/SFS-SEI)]
 *  X. Zhang et al., "A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-Band Spectrum Prediction," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3315450.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
+*  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3324394.[[Paper]()][[Code](https://github.com/LIUC-000/SA2SEI)]
 
 ### Accpeted
 *  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
