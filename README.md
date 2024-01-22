@@ -28,8 +28,9 @@
 *  C. Wang et al., "Interpolative Metric Learning for Few-Shot Specific Emitter Identification," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3296120.[[Paper](https://ieeexplore.ieee.org/abstract/document/10190130)][[Code](https://github.com/chengJoin/InterML-for-FS-SEI)]
 *  Z. Yao et al., "Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto-Encoder," in IEEE Communications Letters, vol. 27, no. 10, pp. 2657-2661, Oct. 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10243409)][[Code](https://github.com/sleepeach/SFS-SEI)]
 *  X. Zhang et al., "A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-Band Spectrum Prediction," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3315450.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
-*  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3324394.[[Paper]()][[Code](https://github.com/LIUC-000/SA2SEI)]
-
+*  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3324394.[[Paper](https://ieeexplore.ieee.org/abstract/document/10285131/)][[Code](https://github.com/LIUC-000/SA2SEI)]
+*  H. Huang, G. Gui, H. Gacanin, C. Yuen, H. Sari and F. Adachi, "Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems," in IEEE Transactions on Vehicular Technology, vol. 72, no. 7, pp. 9614-9619.[[Paper](https://ieeexplore.ieee.org/abstract/document/10050781)][[Code](https://github.com/BeechburgPieStar/Beam-Prediction)]
+  
 ### Accpeted
 *  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
 
