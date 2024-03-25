@@ -35,7 +35,7 @@
 *   K. Xu et al., "Self-Supervised Learning Malware Traffic Classification Based On Masked Auto-Encoder," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3357072.[[Paper](https://ieeexplore.ieee.org/abstract/document/10411960)][[Code](https://github.com/TsuiHark/Self-supervised_MTC)]
   
 ### Accpeted
-*  Resource-Constrained Specific Emitter Identification Method Using End-to-End Sparse Feature Selection.[[Paper]()][[Code](https://github.com/sleepeach/SFS-SEI)]
+*  M. Tao et al., "Resource-Constrained Specific Emitter Identification Using End-to-End Sparse Feature Selection," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 6067-6072.[[Paper](https://ieeexplore.ieee.org/abstract/document/10436740)][[Code](https://github.com/sleepeach/SFS-SEI)]
 
 ## Contributors
 [Jinhui Ning](https://github.com/yzjh)
