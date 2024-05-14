@@ -40,6 +40,7 @@
 *   K. Xu et al., "Self-Supervised Learning Malware Traffic Classification Based On Masked Auto-Encoder," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3357072.[[Paper](https://ieeexplore.ieee.org/abstract/document/10411960)][[Code](https://github.com/TsuiHark/Self-supervised_MTC)]
 *   X. Zhang et al., "A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-Band Spectrum Prediction," in IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2978-2982, Feb. 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 *  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 500-513, 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10285131/)][[Code](https://github.com/LIUC-000/SA2SEI)]
+*  Y. Peng et al., "Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3395441.[[Paper](https://ieeexplore.ieee.org/abstract/document/10511278)][[Code](https://github.com/BeechburgPieStar/DIR-SEI)]
 
 
 ## Contributors
