@@ -42,7 +42,7 @@
 *  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 500-513, 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10285131/)][[Code](https://github.com/LIUC-000/SA2SEI)]
 *  Y. Peng et al., "Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3395441.[[Paper](https://ieeexplore.ieee.org/abstract/document/10511278)][[Code](https://github.com/BeechburgPieStar/DIR-SEI)]
 *  Y. Wang, H. Zhao, T. Ohtsuki, H. Sari and G. Gui, "Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3447786.[[Paper](https://ieeexplore.ieee.org/abstract/document/10659363)][[Code](https://github.com/BeechburgPieStar/JARIL)]
-
+*  M. Tao et al., "Robust Specific Emitter Identification With Sample Selection and Regularization Under Label Noise," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3453297.[[Paper](https://ieeexplore.ieee.org/document/10663350)][[Code](https://github.com/sleepeach/SSR-SEI)]
 
 ## Contributors
 [Jinhui Ning](https://github.com/yzjh)
