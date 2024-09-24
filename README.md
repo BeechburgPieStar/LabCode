@@ -1,4 +1,4 @@
-# LabCode
+# FocusLab
 ## Published/Early Access
 
 ### 2020
