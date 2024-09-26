@@ -1,17 +1,8 @@
 # FocusLab
-## Published/Early Access
 
-### 2020
-
+### Before 2022
 *  Y. Wang, J. Wang, W. Zhang, J. Yang and G. Gui, "Deep Learning-Based Cooperative Automatic Modulation Classification Method for MIMO Systems," in IEEE Transactions on Vehicular Technology, vol. 69, no. 4, pp. 4575-4579, April 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9018261)][[Code](https://github.com/BeechburgPieStar/CoAMC/tree/main)]
-
-
-### 2021
-
 *  Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9448105)][[Code](https://github.com/BeechburgPieStar/SlimSEI)]
-
-### 2022
-
 *  Y. Wang, G. Gui, H. Gacanin, B. Adebisi, H. Sari and F. Adachi, "Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 1, pp. 86-96, March 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9456904/)][[Code](https://github.com/BeechburgPieStar/FLAMC)]
 *  Z. He et al., "Edge Device Identification Based on Federated Learning and Network Traffic Feature Engineering," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 4, pp. 1898-1909, Dec. 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9502154)][[Code](https://github.com/BeechburgPieStar/FocalDTI)]
 *  J. Ning et al., "Malware Traffic Classification Using Domain Adaptation and Ladder Network for Secure Industrial Internet of Things," in IEEE Internet of Things Journal, vol. 9, no. 18, pp. 17058-17069, 15 Sept.15, 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9632825/)][[Code](https://github.com/yzjh/Keras-MTC-DA-Ladder)]
