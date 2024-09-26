@@ -36,6 +36,8 @@
 *  M. Tao et al., "Robust Specific Emitter Identification With Sample Selection and Regularization Under Label Noise," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3453297.[[Paper](https://ieeexplore.ieee.org/document/10663350)][[Code](https://github.com/sleepeach/SSR-SEI)]
 
 ## Contributors
+[Yu Wang](https://github.com/BeechburgPieStar)
+
 [Jinhui Ning](https://github.com/yzjh)
 
 [Biao Dong](https://github.com/dongbiao321)
