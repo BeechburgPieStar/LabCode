@@ -35,7 +35,7 @@
 *  Y. Wang, H. Zhao, T. Ohtsuki, H. Sari and G. Gui, "Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3447786.[[Paper](https://ieeexplore.ieee.org/abstract/document/10659363)][[Code](https://github.com/BeechburgPieStar/JARIL)]
 *  M. Tao et al., "Robust Specific Emitter Identification With Sample Selection and Regularization Under Label Noise," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3453297.[[Paper](https://ieeexplore.ieee.org/document/10663350)][[Code](https://github.com/sleepeach/SSR-SEI)]
 
-### 2024
+### 2025
 *  Y. Wang, T. Ohtsuki, Z. Sun, D. Niyato, X. Wang and G. Gui, "Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2025.3528568.[[Paper](https://ieeexplore.ieee.org/document/10847785)][[Code](https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI)]
 
 ## Contributors
