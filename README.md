@@ -39,6 +39,7 @@
 ### 2025
 *  Y. Wang, T. Ohtsuki, Z. Sun, D. Niyato, X. Wang and G. Gui, "Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2025.3528568.[[Paper](https://ieeexplore.ieee.org/document/10847785)][[Code](https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI)]
 *  Y. Wang and G. Gui, "Consistency-Guided Robust Learning for Content-Agnostic Radio Frequency Fingerprinting," in IEEE Communications Letters, vol. 29, no. 3, pp. 610-614, March 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10857308)][[Code](https://github.com/BeechburgPieStar/CGRL-for-Content-Agnostic-RFF)]
+*  Q. Zhu, Y. Wang, W. Li, H. Huang and G. Gui, "Advancing Multi-Modal Beam Prediction with Cross-Modal Feature Enhancement and Dynamic Fusion Mechanism," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3548021.[[Paper](https://ieeexplore.ieee.org/abstract/document/10912462)][[Code](https://github.com/zqh112/CMDF)]
 
 ## Contributors
 [Yu Wang](https://github.com/BeechburgPieStar)
