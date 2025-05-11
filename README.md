@@ -44,7 +44,6 @@
 
 ## Contributors
 
-|   |   |  |
 |-----------------------------------------------|----------------------------------------|---------------------------------------------|
 | [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |
 | [Hongwei Liu](https://github.com/LiuK1288)    | [SiYuan Xu](https://github.com/NJUPT-Sivan) | [Hui Wang]()   |
