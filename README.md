@@ -43,43 +43,15 @@
 *  H. Wang, Y. Huang, H. Huang, Y. Wang, J. Li and G. Gui, "Uncertainty-Aware Dynamic Fusion Network with Criss-Cross Attention for multimodal remote sensing land cover classification," in Information Fusion, vol. 123, p. 103249, 2025.[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003227?via%3Dihub)][[Code](https://github.com/BeechburgPieStar/UDFNet)]
 
 ## Contributors
-[Yu Wang](https://github.com/BeechburgPieStar)
+## Contributors
 
-[Jinhui Ning](https://github.com/yzjh)
+| [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |
+| [Hongwei Liu](https://github.com/LiuK1288) | [SiYuan Xu](https://github.com/NJUPT-Sivan) | [Hui Wang]() |
+| [Xue Fu](https://github.com/lovelymimola) | [Chao Liu](https://github.com/LIUC-000) | [Zheyang Yang](https://github.com/yzybeibei) |
+| [Yuxin Ji](https://github.com/Ljyx1) | [Yuxuan Huang](https://github.com/huangyuxuan11) | [Chen Wang](https://github.com/chengJoin) |
+| [Mengyuan Tao](https://github.com/sleepeach) | [Zhishen Yao](https://github.com/YZS666) | [Xile Zhang](https://github.com/TLTLHILL) |
+| [Ke Xu](https://github.com/TsuiHark) | [Lai Xu](https://github.com/IcedWatermelonJuice) | [Qihao Zhu](https://github.com/zqh112) |
 
-[Biao Dong](https://github.com/dongbiao321)
-
-[Hongwei Liu](https://github.com/LiuK1288)
-
-[SiYuan Xu](https://github.com/NJUPT-Sivan)
-
-[Xixi Zhang](https://github.com/XixiZhang123)
-
-[Xue Fu](https://github.com/lovelymimola)
-
-[Chao Liu](https://github.com/LIUC-000)
-
-[Zheyang Yang](https://github.com/yzybeibei)
-
-[Yuxin Ji](https://github.com/Ljyx1)
-
-[Yuxuan Huang](https://github.com/huangyuxuan11)
-
-[Chen Wang](https://github.com/chengJoin)
-
-[Mengyuan Tao](https://github.com/sleepeach)
-
-[Zhishen Yao](https://github.com/YZS666)
-
-[Xile Zhang](https://github.com/TLTLHILL)
-
-[Ke Xu](https://github.com/TsuiHark)
-
-[Lai Xu](https://github.com/IcedWatermelonJuice)
-
-[Qihao Zhu](https://github.com/zqh112)
-
-[Hui Wang]()
 
 
 ## License / 许可证
