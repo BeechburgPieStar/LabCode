@@ -44,13 +44,7 @@
 
 ## Contributors
 
-|-----------------------------------------------|----------------------------------------|---------------------------------------------|
-| [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |
-| [Hongwei Liu](https://github.com/LiuK1288)    | [SiYuan Xu](https://github.com/NJUPT-Sivan) | [Hui Wang]()   |
-| [Xue Fu](https://github.com/lovelymimola)     | [Chao Liu](https://github.com/LIUC-000) | [Zheyang Yang](https://github.com/yzybeibei) |
-| [Yuxin Ji](https://github.com/Ljyx1)          | [Yuxuan Huang](https://github.com/huangyuxuan11) | [Chen Wang](https://github.com/chengJoin) |
-| [Mengyuan Tao](https://github.com/sleepeach)  | [Zhishen Yao](https://github.com/YZS666) | [Xile Zhang](https://github.com/TLTLHILL) |
-| [Ke Xu](https://github.com/TsuiHark)          | [Lai Xu](https://github.com/IcedWatermelonJuice) | [Qihao Zhu](https://github.com/zqh112) |
+| [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |[Hongwei Liu](https://github.com/LiuK1288)    | [SiYuan Xu](https://github.com/NJUPT-Sivan) | [Hui Wang]() |[Xue Fu](https://github.com/lovelymimola)     | [Chao Liu](https://github.com/LIUC-000) | [Zheyang Yang](https://github.com/yzybeibei) | [Yuxin Ji](https://github.com/Ljyx1)          | [Yuxuan Huang](https://github.com/huangyuxuan11) | [Chen Wang](https://github.com/chengJoin) |[Mengyuan Tao](https://github.com/sleepeach)  | [Zhishen Yao](https://github.com/YZS666) | [Xile Zhang](https://github.com/TLTLHILL) | [Ke Xu](https://github.com/TsuiHark)          | [Lai Xu](https://github.com/IcedWatermelonJuice) | [Qihao Zhu](https://github.com/zqh112) |
 
 
 
