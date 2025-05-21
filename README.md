@@ -1,6 +1,14 @@
-# My Code Lib
+# 📚 My Code Collection
 
-### Before 2022
+A curated list of my published works and open-source implementations, organized by year.
+
+---
+
+## 🕰️ Publications & Code
+
+<details>
+<summary><strong>📅 Before 2022</strong></summary>
+
 *  Y. Wang, J. Wang, W. Zhang, J. Yang and G. Gui, "Deep Learning-Based Cooperative Automatic Modulation Classification Method for MIMO Systems," in IEEE Transactions on Vehicular Technology, vol. 69, no. 4, pp. 4575-4579, April 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9018261)][[Code](https://github.com/BeechburgPieStar/CoAMC/tree/main)]
 *  Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 8, pp. 2305-2317, Aug. 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9448105)][[Code](https://github.com/BeechburgPieStar/SlimSEI)]
 *  Y. Wang, G. Gui, H. Gacanin, B. Adebisi, H. Sari and F. Adachi, "Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 1, pp. 86-96, March 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9456904/)][[Code](https://github.com/BeechburgPieStar/FLAMC)]
@@ -12,7 +20,10 @@
 *  H. Liu, C. Hao, Y. Peng, Y. Wang, T. Ohtsuki and G. Gui, "An Effective Radio Frequency Signal Classification Method Based on Multi-Task Learning Mechanism," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/abstract/document/10012794)][[Code](https://github.com/LiuK1288/lhw-000)]
 *  S. Xu, Z. He, W. Shi, Y. Wang, T. Ohtsuki and G. Guiy, "Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/abstract/document/10013044)][[Code](https://github.com/NJUPT-Sivan/Cross-person-HAR)]
 
-### 2023
+</details>
+
+<details>
+<summary><strong>📅 2023</strong></summary>
 
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification Method Using Metric-Adversarial Training," in IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10778-10789, 15 June15, 2023.[[Paper](https://ieeexplore.ieee.org/document/10026879)][[Code](https://github.com/lovelymimola/MAT-based-SS-SEI)]
 *  C. Liu et al., "A Robust Few-Shot SEI Method Using Class-Reconstruction and Adversarial Training," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/document/10012716)][[Code](https://github.com/LIUC-000/CRCN-AT)]
@@ -22,11 +33,16 @@
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization," in IEEE Internet of Things Journal, vol. 10, no. 21, pp. 19257-19269, Nov. 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10139822)][[Code](https://github.com/lovelymimola/DCR-Based-SemiSEI)]
 *  C. Wang et al., "Interpolative Metric Learning for Few-Shot Specific Emitter Identification," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3296120.[[Paper](https://ieeexplore.ieee.org/abstract/document/10190130)][[Code](https://github.com/chengJoin/InterML-for-FS-SEI)]
 *  Z. Yao et al., "Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto-Encoder," in IEEE Communications Letters, vol. 27, no. 10, pp. 2657-2661, Oct. 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10243409)][[Code](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem)]
-* H. Huang, G. Gui, H. Gacanin, C. Yuen, H. Sari and F. Adachi, "Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems," in IEEE Transactions on Vehicular Technology, vol. 72, no. 7, pp. 9614-9619, July 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10050781)][[Code](https://github.com/BeechburgPieStar/Beam-Prediction)]
+*  H. Huang, G. Gui, H. Gacanin, C. Yuen, H. Sari and F. Adachi, "Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems," in IEEE Transactions on Vehicular Technology, vol. 72, no. 7, pp. 9614-9619, July 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10050781)][[Code](https://github.com/BeechburgPieStar/Beam-Prediction)]
 *  M. Tao et al., "Resource-Constrained Specific Emitter Identification Using End-to-End Sparse Feature Selection," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 6067-6072.[[Paper](https://ieeexplore.ieee.org/abstract/document/10436740)][[Code](https://github.com/sleepeach/SFS-SEI)]
 *  L. Xu et al., "Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023, pp. 490-494.[[Paper](https://ieeexplore.ieee.org/document/10419686)][[Code](https://github.com/IcedWatermelonJuice/FS-SEI?tab=readme-ov-file)]
 
-### 2024
+</details>
+
+
+<details>
+<summary><strong>📅 2024</strong></summary>
+
 *   K. Xu et al., "Self-Supervised Learning Malware Traffic Classification Based on Masked Autoencoder," in IEEE Internet of Things Journal, vol. 11, no. 10, pp. 17330-17340, May 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10411960)][[Code](https://github.com/TsuiHark/Self-supervised_MTC)]
 *   X. Zhang et al., "A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi-Band Spectrum Prediction," in IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2978-2982, Feb. 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10251662/)][[Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction)]
 *  C. Liu et al., "Overcoming Data Limitations: A Few-Shot Specific Emitter Identification Method Using Self-Supervised Learning and Adversarial Augmentation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 500-513, 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10285131/)][[Code](https://github.com/LIUC-000/SA2SEI)]
@@ -36,7 +52,11 @@
 *  X. Fu, Y. Wang, Y. Lin, T. Ohtsuki, G. Gui and H. Sari, "Toward Robust Open-Set Radiofrequency Signal Identification in Internet of Things Using Hypersphere Manifold Embedding," in IEEE Internet of Things Journal, vol. 11, no. 24, pp. 41235-41247, 15 Dec.15.[[Paper](https://ieeexplore.ieee.org/abstract/document/10677423)][[Code](https://github.com/lovelymimola/Hypersphere-based-Open-set-RFF)]
 *  Z. Cai, Y. Wang, Q. Jiang, G. Gui and J. Sha, "Toward Intelligent Lightweight and Efficient UAV Identification With RF Fingerprinting," in IEEE Internet of Things Journal, vol. 11, no. 15, pp. 26329-26339, Aug. 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10816100)][[Code](https://github.com/Edith-xx/Papercode_IOTJ)]
 
-### 2025
+</details>
+
+<details>
+<summary><strong>📅 2025</strong></summary>
+
 *  Y. Wang, T. Ohtsuki, Z. Sun, D. Niyato, X. Wang and G. Gui, "Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization," in IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 3163-3176, April 2025.[[Paper](https://ieeexplore.ieee.org/document/10847785)][[Code](https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI)]
 *  Y. Wang and G. Gui, "Consistency-Guided Robust Learning for Content-Agnostic Radio Frequency Fingerprinting," in IEEE Communications Letters, vol. 29, no. 3, pp. 610-614, March 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10857308)][[Code](https://github.com/BeechburgPieStar/CGRL-for-Content-Agnostic-RFF)]
 *  Q. Zhu, Y. Wang, W. Li, H. Huang and G. Gui, "Advancing Multi-Modal Beam Prediction with Cross-Modal Feature Enhancement and Dynamic Fusion Mechanism," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3548021.[[Paper](https://ieeexplore.ieee.org/abstract/document/10912462)][[Code](https://github.com/zqh112/CMDF)]
@@ -44,15 +64,43 @@
 *  R. Li et al., "Behavioral Modeling of Power Amplifiers Leveraging Multi-Channel Convolutional Long Short-Term Deep Neural Network," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3543885.[[Paper](https://ieeexplore.ieee.org/abstract/document/10896855)][[Code](https://github.com/Pt2Mu/Behavioral-Modeling-of-Power-Amplifiers-Leveraging-MCLDNN)]
 *  Z. Cai, Y. Wang, G. Gui and J. Sha, "Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 1037-1048, 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10816100)][[Code](https://github.com/Edith-xx/Cross-Domain-RFFI)]
 
-## Contributors
+</details>
 
-| [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |[Hongwei Liu](https://github.com/LiuK1288)    | [SiYuan Xu](https://github.com/NJUPT-Sivan) | [Hui Wang]() |[Xue Fu](https://github.com/lovelymimola)     | [Chao Liu](https://github.com/LIUC-000) | [Zheyang Yang](https://github.com/yzybeibei) | [Yuxin Ji](https://github.com/Ljyx1)          | [Yuxuan Huang](https://github.com/huangyuxuan11) | [Chen Wang](https://github.com/chengJoin) |[Mengyuan Tao](https://github.com/sleepeach)  | [Zhishen Yao](https://github.com/YZS666) | [Xile Zhang](https://github.com/TLTLHILL) | [Ke Xu](https://github.com/TsuiHark)          | [Lai Xu](https://github.com/IcedWatermelonJuice) |[Zhenxin Cai](https://github.com/Edith-xx) | [Qihao Zhu](https://github.com/zqh112) | [Ruiheng Li](https://github.com/Pt2Mu) |
+---
 
+## 👥 Contributors
 
+| Name | GitHub |
+|------|--------|
+| Yu Wang | [@BeechburgPieStar](https://github.com/BeechburgPieStar) |
+| Jinhui Ning | [@yzjh](https://github.com/yzjh) |
+| Biao Dong | [@dongbiao321](https://github.com/dongbiao321) |
+| Hongwei Liu | [@LiuK1288](https://github.com/LiuK1288) |
+| SiYuan Xu | [@NJUPT-Sivan](https://github.com/NJUPT-Sivan) |
+| Hui Wang | *(N/A)* |
+| Xue Fu | [@lovelymimola](https://github.com/lovelymimola) |
+| Chao Liu | [@LIUC-000](https://github.com/LIUC-000) |
+| Zheyang Yang | [@yzybeibei](https://github.com/yzybeibei) |
+| Yuxin Ji | [@Ljyx1](https://github.com/Ljyx1) |
+| Yuxuan Huang | [@huangyuxuan11](https://github.com/huangyuxuan11) |
+| Chen Wang | [@chengJoin](https://github.com/chengJoin) |
+| Mengyuan Tao | [@sleepeach](https://github.com/sleepeach) |
+| Zhishen Yao | [@YZS666](https://github.com/YZS666) |
+| Xile Zhang | [@TLTLHILL](https://github.com/TLTLHILL) |
+| Ke Xu | [@TsuiHark](https://github.com/TsuiHark) |
+| Lai Xu | [@IcedWatermelonJuice](https://github.com/IcedWatermelonJuice) |
+| Zhenxin Cai | [@Edith-xx](https://github.com/Edith-xx) |
+| Qihao Zhu | [@zqh112](https://github.com/zqh112) |
+| Ruiheng Li | [@Pt2Mu](https://github.com/Pt2Mu) |
 
+---
 
-## License / 许可证
+## 📄 License / 许可证
 
-本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+🚫 **Non-Commercial Use Only**
 
-This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
+> This project is distributed under a custom non-commercial license.  
+> Any form of commercial use is **strictly prohibited**.
+
+本项目基于自定义非商业许可证发布，  
+禁止用于任何形式的商业用途。
