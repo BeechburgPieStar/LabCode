@@ -64,7 +64,7 @@ A curated list of my published works and open-source implementations, organized 
 *  H. Wang, Y. Huang, H. Huang, Y. Wang, J. Li and G. Gui, "Uncertainty-Aware Dynamic Fusion Network with Criss-Cross Attention for multimodal remote sensing land cover classification," in Information Fusion, vol. 123, p. 103249, 2025.[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003227?via%3Dihub)][[Code](https://github.com/BeechburgPieStar/UDFNet)]
 *  R. Li et al., "Behavioral Modeling of Power Amplifiers Leveraging Multi-Channel Convolutional Long Short-Term Deep Neural Network," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3543885.[[Paper](https://ieeexplore.ieee.org/abstract/document/10896855)][[Code](https://github.com/Pt2Mu/Behavioral-Modeling-of-Power-Amplifiers-Leveraging-MCLDNN)]
 *  Z. Cai, Y. Wang, G. Gui and J. Sha, "Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 1037-1048, 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10816100)][[Code](https://github.com/Edith-xx/Cross-Domain-RFFI)]
-
+*  H. Wang, Y. Huang, Y. Wang, H. Huang, D. Jiao, Y. Lin and G. Gui, "Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks for Remote Sensing," in IEEE Transactions on Geoscience and Remote Sensing, early access, doi: 10.1109/TGRS.2025.3587876.[[Paper]()][[Code](https://github.com/BeechburgPieStar/DEFNet)]
 </details>
 
 ---
