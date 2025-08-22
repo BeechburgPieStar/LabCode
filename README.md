@@ -73,13 +73,29 @@ A curated list of my published works and open-source implementations, organized 
 
 ## 👥 Contributors
 
-| [Yu Wang](https://github.com/BeechburgPieStar) | [Jinhui Ning](https://github.com/yzjh) | [Biao Dong](https://github.com/dongbiao321) |
-| [Hongwei Liu](https://github.com/LiuK1288) | [SiYuan Xu](https://github.com/NJUPT-Sivan) | Hui Wang |
-| [Xue Fu](https://github.com/lovelymimola) | [Chao Liu](https://github.com/LIUC-000) | [Zheyang Yang](https://github.com/yzybeibei) |
-| [Yuxin Ji](https://github.com/Ljyx1) | [Yuxuan Huang](https://github.com/huangyuxuan11) | [Chen Wang](https://github.com/chengJoin) |
-| [Mengyuan Tao](https://github.com/sleepeach) | [Zhishen Yao](https://github.com/YZS666) | [Xile Zhang](https://github.com/TLTLHILL) |
-| [Ke Xu](https://github.com/TsuiHark) | [Lai Xu](https://github.com/IcedWatermelonJuice) | [Zhenxin Cai](https://github.com/Edith-xx) |
-| [Qihao Zhu](https://github.com/zqh112) | [Ruiheng Li](https://github.com/Pt2Mu) | [Lifan Hu](https://github.com/fan-bread) |
+| 👤 Name | 🔗 GitHub |
+|:-------:|:---------:|
+| [Yu Wang](https://github.com/BeechburgPieStar) | [@BeechburgPieStar](https://github.com/BeechburgPieStar) |
+| [Jinhui Ning](https://github.com/yzjh) | [@yzjh](https://github.com/yzjh) |
+| [Biao Dong](https://github.com/dongbiao321) | [@dongbiao321](https://github.com/dongbiao321) |
+| [Hongwei Liu](https://github.com/LiuK1288) | [@LiuK1288](https://github.com/LiuK1288) |
+| [SiYuan Xu](https://github.com/NJUPT-Sivan) | [@NJUPT-Sivan](https://github.com/NJUPT-Sivan) |
+| Hui Wang | *(N/A)* |
+| [Xue Fu](https://github.com/lovelymimola) | [@lovelymimola](https://github.com/lovelymimola) |
+| [Chao Liu](https://github.com/LIUC-000) | [@LIUC-000](https://github.com/LIUC-000) |
+| [Zheyang Yang](https://github.com/yzybeibei) | [@yzybeibei](https://github.com/yzybeibei) |
+| [Yuxin Ji](https://github.com/Ljyx1) | [@Ljyx1](https://github.com/Ljyx1) |
+| [Yuxuan Huang](https://github.com/huangyuxuan11) | [@huangyuxuan11](https://github.com/huangyuxuan11) |
+| [Chen Wang](https://github.com/chengJoin) | [@chengJoin](https://github.com/chengJoin) |
+| [Mengyuan Tao](https://github.com/sleepeach) | [@sleepeach](https://github.com/sleepeach) |
+| [Zhishen Yao](https://github.com/YZS666) | [@YZS666](https://github.com/YZS666) |
+| [Xile Zhang](https://github.com/TLTLHILL) | [@TLTLHILL](https://github.com/TLTLHILL) |
+| [Ke Xu](https://github.com/TsuiHark) | [@TsuiHark](https://github.com/TsuiHark) |
+| [Lai Xu](https://github.com/IcedWatermelonJuice) | [@IcedWatermelonJuice](https://github.com/IcedWatermelonJuice) |
+| [Zhenxin Cai](https://github.com/Edith-xx) | [@Edith-xx](https://github.com/Edith-xx) |
+| [Qihao Zhu](https://github.com/zqh112) | [@zqh112](https://github.com/zqh112) |
+| [Ruiheng Li](https://github.com/Pt2Mu) | [@Pt2Mu](https://github.com/Pt2Mu) |
+| [Lifan Hu](https://github.com/fan-bread) | [@fan-bread](https://github.com/fan-bread) |
 
 ## 📄 License / 许可证
 
