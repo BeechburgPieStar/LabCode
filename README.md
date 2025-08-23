@@ -73,6 +73,7 @@ A curated list of my published works and open-source implementations, organized 
 
 ## 👥 Contributors
 <details>
+  
 | 👤 Name |
 |:-------:|
 | [Yu Wang](https://github.com/BeechburgPieStar) |
@@ -96,6 +97,7 @@ A curated list of my published works and open-source implementations, organized 
 | [Qihao Zhu](https://github.com/zqh112) |
 | [Ruiheng Li](https://github.com/Pt2Mu) |
 | [Lifan Hu](https://github.com/fan-bread) |
+
 </details>
 ## 📄 License / 许可证
 
