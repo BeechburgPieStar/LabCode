@@ -99,6 +99,7 @@ A curated list of my published works and open-source implementations, organized 
 | [Lifan Hu](https://github.com/fan-bread) |
 
 </details>
+
 ## 📄 License / 许可证
 
 🚫 **Non-Commercial Use Only**
