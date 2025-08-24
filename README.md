@@ -6,7 +6,6 @@ A curated list of my published works and open-source implementations, organized 
 
 ## 🕰️ Publications & Code
 
-<details>
 <summary><strong>📅 Before 2022</strong></summary>
 
 *  Y. Wang, J. Wang, W. Zhang, J. Yang and G. Gui, "Deep Learning-Based Cooperative Automatic Modulation Classification Method for MIMO Systems," in IEEE Transactions on Vehicular Technology, vol. 69, no. 4, pp. 4575-4579, April 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9018261)][[Code](https://github.com/BeechburgPieStar/CoAMC/tree/main)]
@@ -20,9 +19,7 @@ A curated list of my published works and open-source implementations, organized 
 *  H. Liu, C. Hao, Y. Peng, Y. Wang, T. Ohtsuki and G. Gui, "An Effective Radio Frequency Signal Classification Method Based on Multi-Task Learning Mechanism," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/abstract/document/10012794)][[Code](https://github.com/LiuK1288/lhw-000)]
 *  S. Xu, Z. He, W. Shi, Y. Wang, T. Ohtsuki and G. Guiy, "Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5.[[Paper](https://ieeexplore.ieee.org/abstract/document/10013044)][[Code](https://github.com/NJUPT-Sivan/Cross-person-HAR)]
 
-</details>
 
-<details>
 <summary><strong>📅 2023</strong></summary>
 
 *  X. Fu et al., "Semi-Supervised Specific Emitter Identification Method Using Metric-Adversarial Training," in IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10778-10789, 15 June15, 2023.[[Paper](https://ieeexplore.ieee.org/document/10026879)][[Code](https://github.com/lovelymimola/MAT-based-SS-SEI)]
@@ -37,10 +34,8 @@ A curated list of my published works and open-source implementations, organized 
 *  M. Tao et al., "Resource-Constrained Specific Emitter Identification Using End-to-End Sparse Feature Selection," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 6067-6072.[[Paper](https://ieeexplore.ieee.org/abstract/document/10436740)][[Code](https://github.com/sleepeach/SFS-SEI)]
 *  L. Xu et al., "Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G," 2023 IEEE 23rd International Conference on Communication Technology (ICCT), Wuxi, China, 2023, pp. 490-494.[[Paper](https://ieeexplore.ieee.org/document/10419686)][[Code](https://github.com/IcedWatermelonJuice/FS-SEI?tab=readme-ov-file)]
 
-</details>
 
 
-<details>
 <summary><strong>📅 2024</strong></summary>
 
 *   K. Xu et al., "Self-Supervised Learning Malware Traffic Classification Based on Masked Autoencoder," in IEEE Internet of Things Journal, vol. 11, no. 10, pp. 17330-17340, May 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10411960)][[Code](https://github.com/TsuiHark/Self-supervised_MTC)]
@@ -52,9 +47,7 @@ A curated list of my published works and open-source implementations, organized 
 *  X. Fu, Y. Wang, Y. Lin, T. Ohtsuki, G. Gui and H. Sari, "Toward Robust Open-Set Radiofrequency Signal Identification in Internet of Things Using Hypersphere Manifold Embedding," in IEEE Internet of Things Journal, vol. 11, no. 24, pp. 41235-41247, 15 Dec.15.[[Paper](https://ieeexplore.ieee.org/abstract/document/10677423)][[Code](https://github.com/lovelymimola/Hypersphere-based-Open-set-RFF)]
 *  Z. Cai, Y. Wang, Q. Jiang, G. Gui and J. Sha, "Toward Intelligent Lightweight and Efficient UAV Identification With RF Fingerprinting," in IEEE Internet of Things Journal, vol. 11, no. 15, pp. 26329-26339, Aug. 2024.[[Paper](https://ieeexplore.ieee.org/abstract/document/10816100)][[Code](https://github.com/Edith-xx/Papercode_IOTJ)]
 
-</details>
 
-<details>
 <summary><strong>📅 2025</strong></summary>
   
 *  L. Hu, Y. Wang, X. Fu, L. Guo, Y. Lin and G. Gui, "Energy-Efficient Wireless Technology Recognition Method Using Time-Frequency Feature Fusion Spiking Neural Networks," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 2252-2265, Feb. 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10876404)][[Code](https://github.com/fan-bread/TFSNN-WTR)]
@@ -67,13 +60,11 @@ A curated list of my published works and open-source implementations, organized 
 *  H. Wang, Y. Huang, Y. Wang, H. Huang, D. Jiao, Y. Lin and G. Gui, "Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks for Remote Sensing," in IEEE Transactions on Geoscience and Remote Sensing, early access, doi: 10.1109/TGRS.2025.3587876.[[Paper](https://ieeexplore.ieee.org/document/11077420)][[Code](https://github.com/BeechburgPieStar/DEFNet)]
 *  C. Liu, G. Gui, Y. Wang, et al., "A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification," in IEEE Communications Surveys & Tutorials, early Access, doi: 10.1109/COMST.2025.3588171.[[Paper](https://ieeexplore.ieee.org/document/11078425)][[Code](https://github.com/LIUC-000/SSL-SEI_Survey)]
 *  Z. Cai, Y. Yin, Y. Wang, G. Gui and J. Sha, "Receiver-Agnostic Radio Frequency Fingerprinting via Domain-Invariant Feature Learning," in IEEE Communications Letters, doi: 10.1109/LCOMM.2025.3598034.[[Paper](https://ieeexplore.ieee.org/abstract/document/11123467)][[Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-)]
-</details>
 
 ---
 
 ## 👥 Contributors
-<details>
-  
+ 
 Many thanks to the following contributors for their support and efforts:  
 [Jinhui Ning](https://github.com/yzjh),  [Biao Dong](https://github.com/dongbiao321),  [Hongwei Liu](https://github.com/LiuK1288),  [SiYuan Xu](https://github.com/NJUPT-Sivan),  
 [Hui Wang](),  [Xue Fu](https://github.com/lovelymimola),  [Chao Liu](https://github.com/LIUC-000),  [Zheyang Yang](https://github.com/yzybeibei),  
@@ -81,7 +72,6 @@ Many thanks to the following contributors for their support and efforts:
 [Zhishen Yao](https://github.com/YZS666),  [Xile Zhang](https://github.com/TLTLHILL),  [Ke Xu](https://github.com/TsuiHark),  [Lai Xu](https://github.com/IcedWatermelonJuice),  
 [Zhenxin Cai](https://github.com/Edith-xx),  [Qihao Zhu](https://github.com/zqh112), [Ruiheng Li](https://github.com/Pt2Mu),  [Lifan Hu](https://github.com/fan-bread), ...
 
-</details>
 
 ## 📄 License / 许可证
 
