@@ -74,29 +74,28 @@ A curated list of my published works and open-source implementations, organized 
 ## 👥 Contributors
 <details>
   
-| 👤 Name |
-|:-------:|
-| [Yu Wang](https://github.com/BeechburgPieStar) |
-| [Jinhui Ning](https://github.com/yzjh) |
-| [Biao Dong](https://github.com/dongbiao321) |
-| [Hongwei Liu](https://github.com/LiuK1288) |
-| [SiYuan Xu](https://github.com/NJUPT-Sivan) |
-| [Hui Wang]() |
-| [Xue Fu](https://github.com/lovelymimola) |
-| [Chao Liu](https://github.com/LIUC-000) |
-| [Zheyang Yang](https://github.com/yzybeibei) |
-| [Yuxin Ji](https://github.com/Ljyx1) |
-| [Yuxuan Huang](https://github.com/huangyuxuan11) |
-| [Chen Wang](https://github.com/chengJoin) |
-| [Mengyuan Tao](https://github.com/sleepeach) |
-| [Zhishen Yao](https://github.com/YZS666) |
-| [Xile Zhang](https://github.com/TLTLHILL) |
-| [Ke Xu](https://github.com/TsuiHark) |
-| [Lai Xu](https://github.com/IcedWatermelonJuice) |
-| [Zhenxin Cai](https://github.com/Edith-xx) |
-| [Qihao Zhu](https://github.com/zqh112) |
-| [Ruiheng Li](https://github.com/Pt2Mu) |
-| [Lifan Hu](https://github.com/fan-bread) |
+Many thanks to the following contributors for their support and efforts:  
+[Yu Wang](https://github.com/BeechburgPieStar),  
+[Jinhui Ning](https://github.com/yzjh),  
+[Biao Dong](https://github.com/dongbiao321),  
+[Hongwei Liu](https://github.com/LiuK1288),  
+[SiYuan Xu](https://github.com/NJUPT-Sivan),  
+[Hui Wang](),  
+[Xue Fu](https://github.com/lovelymimola),  
+[Chao Liu](https://github.com/LIUC-000),  
+[Zheyang Yang](https://github.com/yzybeibei),  
+[Yuxin Ji](https://github.com/Ljyx1),  
+[Yuxuan Huang](https://github.com/huangyuxuan11),  
+[Chen Wang](https://github.com/chengJoin),  
+[Mengyuan Tao](https://github.com/sleepeach),  
+[Zhishen Yao](https://github.com/YZS666),  
+[Xile Zhang](https://github.com/TLTLHILL),  
+[Ke Xu](https://github.com/TsuiHark),  
+[Lai Xu](https://github.com/IcedWatermelonJuice),  
+[Zhenxin Cai](https://github.com/Edith-xx),  
+[Qihao Zhu](https://github.com/zqh112),  
+[Ruiheng Li](https://github.com/Pt2Mu),  
+[Lifan Hu](https://github.com/fan-bread).
 
 </details>
 
