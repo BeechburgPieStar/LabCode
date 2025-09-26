@@ -1,6 +1,4 @@
-# 📚 A curated list of my published works and open-source implementations, organized by year.
-
----
+# 📚 A Curated List of My Published Works and Open-Source Implementations, Organized by Year
 
 ## 🕰️ Publications & Code
 
