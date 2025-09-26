@@ -1,6 +1,4 @@
-# 📚 My Code Collection
-
-A curated list of my published works and open-source implementations, organized by year.
+# 📚 A curated list of my published works and open-source implementations, organized by year.
 
 ---
 
