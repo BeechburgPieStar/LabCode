@@ -56,6 +56,7 @@
 *  H. Wang et al., "Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks for Remote Sensing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-11, 2025, Art no. 4705211. [[Paper](https://ieeexplore.ieee.org/document/11077420)][[Code](https://github.com/BeechburgPieStar/DEFNet)]
 *  C. Liu, G. Gui, Y. Wang, et al., "A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification," in IEEE Communications Surveys & Tutorials, early Access, doi: 10.1109/COMST.2025.3588171.[[Paper](https://ieeexplore.ieee.org/document/11078425)][[Code](https://github.com/LIUC-000/SSL-SEI_Survey)]
 *  Z. Cai, Y. Yin, Y. Wang, G. Gui and J. Sha, "Receiver-Agnostic Radio Frequency Fingerprinting via Domain-Invariant Feature Learning," in IEEE Communications Letters, vol. 29, no. 10, pp. 2396-2400, Oct. 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/11123467)][[Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-)]
+*  Q. Zhu, Y. Wang, T. Ohtsuki, S. Mao, D. Niyato and G. Gui, "Bio-Inspired Dendritic Liquid Neural Network for Robust Near-Field Positioning in B5G/6G," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3627310.[[Paper](https://ieeexplore.ieee.org/document/11222702)][[Code](https://github.com/zqh112/Near-Field-Positioning--DLNN)]
 
 ---
 
