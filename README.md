@@ -1,5 +1,3 @@
-# 📚 Published Works and Open-Source Implementations
-
 ## 🕰️ Publications & Code
 
 <summary><strong>📅 Before 2022</strong></summary>
