@@ -1,4 +1,4 @@
-## 🕰️ Publications & Code
+# 🕰️ Publications & Code
 
 <summary><strong>📅 Before 2022</strong></summary>
 
@@ -57,7 +57,7 @@
 *  Q. Zhu, Y. Wang, T. Ohtsuki, S. Mao, D. Niyato and G. Gui, "Bio-Inspired Dendritic Liquid Neural Network for Robust Near-Field Positioning in B5G/6G," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3627310.[[Paper](https://ieeexplore.ieee.org/document/11222702)][[Code](https://github.com/zqh112/Near-Field-Positioning--DLNN)]
 
 
-## 📄 License / 许可证
+# 📄 License / 许可证
 
 🚫 **Non-Commercial Use Only**
 
