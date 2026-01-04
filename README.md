@@ -16,19 +16,16 @@
   Y. Wang, J. Wang, W. Zhang, J. Yang, G. Gui · IEEE Transactions on Vehicular Technology · 2020  
   <a href="https://ieeexplore.ieee.org/abstract/document/9018261"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/CoAMC/tree/main"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
-  <img src="https://img.shields.io/badge/Task-AMC-brightgreen">
 
 * **An Efficient Specific Emitter Identification Method Based on Complex Valued Neural Networks and Network Compression**  
   Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre, H. V. Poor · IEEE Journal on Selected Areas in Communications · 2021  
   <a href="https://ieeexplore.ieee.org/abstract/document/9448105"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/SlimSEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
-  <img src="https://img.shields.io/badge/Task-SEI-orange">
 
 * **Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition**  
   Y. Wang, G. Gui, H. Gacanin, B. Adebisi, H. Sari, F. Adachi · IEEE Transactions on Cognitive Communications and Networking · 2022  
   <a href="https://ieeexplore.ieee.org/abstract/document/9456904/"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/FLAMC"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
-  <img src="https://img.shields.io/badge/Task-FL-yellow">
 
 * **Edge Device Identification Based on Federated Learning and Network Traffic Feature Engineering**  
   Z. He et al. · IEEE Transactions on Cognitive Communications and Networking · 2022  
