@@ -1,4 +1,4 @@
-请帮我在前面加个索引，分别是AMC（调制识别）、RFF（或者SEI）、Wireless Sensing, Remote Sensing:## 🕰️ Publications & Code
+## 🕰️ Publications & Code
 
 <p align="center">
   <a href="#before-2022">Before 2022</a> ·
