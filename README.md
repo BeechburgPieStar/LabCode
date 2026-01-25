@@ -194,7 +194,7 @@
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525003227"><img src="https://img.shields.io/badge/Paper-Elsevier-orange"></a>
   <a href="https://github.com/BeechburgPieStar/UDFNet"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Behavioral Modeling of Power Amplifiers Leveraging Multi Channel Convolutional Long Short Term Deep Neural Network**  
+* **Behavioral Modeling of Power Amplifiers Leveraging Multi-Channel Convolutional Long Short Term Deep Neural Network**  
   R. Li et al. · IEEE Transactions on Vehicular Technology · 2025  
   <a href="https://ieeexplore.ieee.org/abstract/document/10896855"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/Pt2Mu/Behavioral-Modeling-of-Power-Amplifiers-Leveraging-MCLDNN"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -214,15 +214,20 @@
   <a href="https://ieeexplore.ieee.org/document/11078425"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/LIUC-000/SSL-SEI_Survey"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Receiver Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning**  
+* **Receiver-Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning**  
   Z. Cai et al. · IEEE Communications Letters · 2025  
   <a href="https://ieeexplore.ieee.org/abstract/document/11123467"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Bio Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G 6G**  
+* **Bio-Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G/6G**  
   Q. Zhu et al. · IEEE Wireless Communications Letters · 2025  
   <a href="https://ieeexplore.ieee.org/document/11222702"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/zqh112/Near-Field-Positioning--DLNN"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
+
+* **Cross-Channel Specific Emitter Identification via Meta-Feature Augmentation-Enhanced Few-Shot Learning**  
+  X. Fu, Y. Wang et al. · IEEE Internet of Things Journal · 2025  
+  <a href="https://ieeexplore.ieee.org/abstract/document/11289534"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
+  <a href="https://github.com/lovelymimola/MFA-FSL-IoTJ-Version"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
 ---
 
