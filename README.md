@@ -229,6 +229,11 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/11289534"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/lovelymimola/MFA-FSL-IoTJ-Version"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
+* **Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network**  
+  Y. Wang et al. · IEEE Transactions on Consumer Electronics · 2025  
+  <a href=""><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
+  <a href="https://github.com/BeechburgPieStar/MRDNN"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
+
 ---
 
 ## 📄 License / 许可证 <a id="license--许可证"></a>
