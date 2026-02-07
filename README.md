@@ -5,7 +5,7 @@
   <a href="#y2023">2023</a> ·
   <a href="#y2024">2024</a> ·
   <a href="#y2025">2025</a> ·
-  <a href="#y2026">2025</a> ·
+  <a href="#y2026">2026</a> ·
   <a href="#license--许可证">License</a>
 </p>
 
