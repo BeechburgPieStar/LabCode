@@ -5,6 +5,7 @@
   <a href="#y2023">2023</a> ·
   <a href="#y2024">2024</a> ·
   <a href="#y2025">2025</a> ·
+  <a href="#y2026">2025</a> ·
   <a href="#license--许可证">License</a>
 </p>
 
@@ -228,6 +229,8 @@
   X. Fu, Y. Wang et al. · IEEE Internet of Things Journal · 2025  
   <a href="https://ieeexplore.ieee.org/abstract/document/11289534"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/lovelymimola/MFA-FSL-IoTJ-Version"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
+
+### 📅 2026 <a id="y2026"></a>
 
 * **Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network**  
   Y. Wang et al. · IEEE Transactions on Consumer Electronics · 2025  
