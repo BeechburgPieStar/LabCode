@@ -38,7 +38,7 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/9632825/"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/yzjh/Keras-MTC-DA-Ladder"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Few Shot Specific Emitter Identification via Deep Metric Ensemble Learning**  
+* **Few-Shot Specific Emitter Identification via Deep Metric Ensemble Learning**  
   Y. Wang, G. Gui, Y. Lin, H. C. Wu, C. Yuen, F. Adachi · IEEE Internet of Things Journal · 2022  
   <a href="https://ieeexplore.ieee.org/abstract/document/9846906"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/FS-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -67,7 +67,7 @@
 
 ### 📅 2023 <a id="y2023"></a>
 
-* **Semi Supervised Specific Emitter Identification Method Using Metric Adversarial Training**  
+* **Semi-Supervised Specific Emitter Identification Method Using Metric Adversarial Training**  
   X. Fu et al. · IEEE Internet of Things Journal · 2023  
   <a href="https://ieeexplore.ieee.org/document/10026879"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/lovelymimola/MAT-based-SS-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
