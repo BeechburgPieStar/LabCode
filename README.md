@@ -18,7 +18,7 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/9018261"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/CoAMC/tree/main"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **An Efficient Specific Emitter Identification Method Based on Complex Valued Neural Networks and Network Compression**  
+* **An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression**  
   Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre, H. V. Poor · IEEE Journal on Selected Areas in Communications · 2021  
   <a href="https://ieeexplore.ieee.org/abstract/document/9448105"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/SlimSEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -53,12 +53,12 @@
   <a href="https://ieeexplore.ieee.org/document/9844135/"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/dongbiao321/MCMBNN-for-CentAMC-and-DecentAMC"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **An Effective Radio Frequency Signal Classification Method Based on Multi Task Learning Mechanism**  
+* **An Effective Radio Frequency Signal Classification Method Based on Multi-Task Learning Mechanism**  
   H. Liu et al. · IEEE VTC Fall · 2022  
   <a href="https://ieeexplore.ieee.org/abstract/document/10012794"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/LiuK1288/lhw-000"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Cross Person Activity Recognition Method Using Snapshot Ensemble Learning**  
+* **Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning**  
   S. Xu et al. · IEEE VTC Fall · 2022  
   <a href="https://ieeexplore.ieee.org/abstract/document/10013044"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/NJUPT-Sivan/Cross-person-HAR"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -72,12 +72,12 @@
   <a href="https://ieeexplore.ieee.org/document/10026879"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/lovelymimola/MAT-based-SS-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **A Robust Few Shot SEI Method Using Class Reconstruction and Adversarial Training**  
+* **A Robust Few-Shot SEI Method Using Class Reconstruction and Adversarial Training**  
   C. Liu et al. · IEEE VTC Fall · 2022  
   <a href="https://ieeexplore.ieee.org/document/10012716"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/LIUC-000/CRCN-AT"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **NASEI Neural Architecture Search Based Specific Emitter Identification Method**  
+* **NASEI: Neural Architecture Search Based Specific Emitter Identification Method**  
   Y. Huang et al. · IEEE VTC Spring · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10199409"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/huangyuxuan11/NASEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -87,12 +87,12 @@
   <a href="https://arxiv.org/abs/2212.00242"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b"></a>
   <a href="https://github.com/yzybeibei/DMNet"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Multi Agent Reinforcement Learning Resources Allocation Method Using Dueling Double Deep Q Network in Vehicular Networks**  
+* **Multi-Agent Reinforcement Learning Resources Allocation Method Using Dueling Double Deep Q Network in Vehicular Networks**  
   Y. Ji et al. · IEEE Transactions on Vehicular Technology · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10123947"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/Ljyx1/paper-codes/tree/master"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Semi Supervised Specific Emitter Identification via Dual Consistency Regularization**  
+* **Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization**  
   X. Fu et al. · IEEE Internet of Things Journal · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10139822"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/lovelymimola/DCR-Based-SemiSEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -102,22 +102,22 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/10190130"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/chengJoin/InterML-for-FS-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Few Shot Specific Emitter Identification Using Asymmetric Masked Auto Encoder**  
+* **Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto Encoder**  
   Z. Yao et al. · IEEE Communications Letters · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10243409"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non Cooperative mmWave Systems**  
+* **Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems**  
   H. Huang et al. · IEEE Transactions on Vehicular Technology · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10050781"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/Beam-Prediction"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Resource Constrained Specific Emitter Identification Using End to End Sparse Feature Selection**  
+* **Resource Constrained Specific Emitter Identification Using End-to-End Sparse Feature Selection**  
   M. Tao et al. · IEEE GLOBECOM · 2023  
   <a href="https://ieeexplore.ieee.org/abstract/document/10436740"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/sleepeach/SFS-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Few Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G**  
+* **Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G**  
   L. Xu et al. · IEEE ICCT · 2023  
   <a href="https://ieeexplore.ieee.org/document/10419686"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/IcedWatermelonJuice/FS-SEI?tab=readme-ov-file"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -126,17 +126,17 @@
 
 ### 📅 2024 <a id="y2024"></a>
 
-* **Self Supervised Learning Malware Traffic Classification Based on Masked Autoencoder**  
+* **Self-Supervised Learning Malware Traffic Classification Based on Masked Autoencoder**  
   K. Xu et al. · IEEE Internet of Things Journal · 2024  
   <a href="https://ieeexplore.ieee.org/abstract/document/10411960"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/TsuiHark/Self-supervised_MTC"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **A GCRNN Attention Graph Convolution Recurrent Neural Network for Multi Band Spectrum Prediction**  
+* **A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi Band Spectrum Prediction**  
   X. Zhang et al. · IEEE Transactions on Vehicular Technology · 2024  
   <a href="https://ieeexplore.ieee.org/abstract/document/10251662/"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Overcoming Data Limitations A Few Shot Specific Emitter Identification Method Using Self Supervised Learning and Adversarial Augmentation**  
+* **Overcoming Data Limitations: A Few Shot Specific Emitter Identification Method Using Self Supervised Learning and Adversarial Augmentation**  
   C. Liu et al. · IEEE Transactions on Information Forensics and Security · 2024  
   <a href="https://ieeexplore.ieee.org/abstract/document/10285131/"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/LIUC-000/SA2SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -146,7 +146,7 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/10511278"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/DIR-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Regularized Multi Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints**  
+* **Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints**  
   Y. Wang et al. · IEEE Transactions on Wireless Communications · 2024  
   <a href="https://ieeexplore.ieee.org/abstract/document/10659363"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/JARIL"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -175,7 +175,7 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/10876404"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/fan-bread/TFSNN-WTR"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Avoiding Shortcuts Enhancing Channel Robust Specific Emitter Identification via Single Source Domain Generalization**  
+* **Avoiding Shortcuts: Enhancing Channel Robust Specific Emitter Identification via Single Source Domain Generalization**  
   Y. Wang et al. · IEEE Transactions on Wireless Communications · 2025  
   <a href="https://ieeexplore.ieee.org/document/10847785"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
@@ -185,12 +185,12 @@
   <a href="https://ieeexplore.ieee.org/abstract/document/10857308"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/CGRL-for-Content-Agnostic-RFF"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Advancing Multi Modal Beam Prediction with Cross Modal Feature Enhancement and Dynamic Fusion Mechanism**  
+* **Advancing Multi-Modal Beam Prediction with Cross Modal Feature Enhancement and Dynamic Fusion Mechanism**  
   Q. Zhu et al. · IEEE Transactions on Communications · 2025  
   <a href="https://ieeexplore.ieee.org/abstract/document/10912462"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/zqh112/CMDF"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
-* **Uncertainty Aware Dynamic Fusion Network with Criss Cross Attention for Multimodal Remote Sensing Land Cover Classification**  
+* **Uncertainty-Aware Dynamic Fusion Network with Criss Cross Attention for Multimodal Remote Sensing Land Cover Classification**  
   H. Wang et al. · Information Fusion · 2025  
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525003227"><img src="https://img.shields.io/badge/Paper-Elsevier-orange"></a>
   <a href="https://github.com/BeechburgPieStar/UDFNet"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
