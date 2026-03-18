@@ -19,7 +19,7 @@
 
 * **ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications**  
   C. Zhu et al. · IEEE Communications Letters · 2026  
-  <a href=""><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
+  <a href="https://ieeexplore.ieee.org/document/11435965"><img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue"></a>
   <a href="https://github.com/BeechburgPieStar/ViSpa-UAVLoc"><img src="https://img.shields.io/badge/Code-GitHub-black"></a>
 
 ---
