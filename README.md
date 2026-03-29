@@ -28,7 +28,6 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
-| 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
 | 2025 | A Comprehensive Survey on Self Supervised Learning for Specific Emitter Identification | IEEE Commun. Surveys Tuts. | [Paper](https://ieeexplore.ieee.org/document/11078425) · [Code](https://github.com/LIUC-000/SSL-SEI_Survey) |
 | 2025 | Cross-Channel Specific Emitter Identification via Meta-Feature Augmentation-Enhanced Few-Shot Learning | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/11289534) · [Code](https://github.com/lovelymimola/MFA-FSL-IoTJ-Version) |
 | 2025 | Receiver-Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/abstract/document/11123467) · [Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-) |
@@ -82,7 +81,8 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
-| 2024 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE Trans. Wireless Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
+| 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
+| 2025 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE Trans. Wireless Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
 | 2022 | MobileNet and Knowledge Distillation Based Automatic Scenario Recognition Method in Vehicle to Vehicle Systems | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/9802718) · [Code](https://github.com/BeechburgPieStar/V2V-Dataset-for-Scenario-Identification) |
 | 2022 | Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning | IEEE VTC Fall | [Paper](https://ieeexplore.ieee.org/abstract/document/10013044) · [Code](https://github.com/NJUPT-Sivan/Cross-person-HAR) |
 
