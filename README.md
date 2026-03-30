@@ -1,11 +1,5 @@
 # 📡 Publications & Code
 
-[English](#english) | [中文](#中文)
-
----
-
-## English
-
 ### 🔬 Research Group Overview
 
 We focus on **physical-layer security** and **AI-driven wireless communications**, with research spanning:
@@ -113,26 +107,6 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 |:----:|-------|-------|:-----:|
 | 2024 | A-GCRNN: Attention Graph Convolution Recurrent Neural Network for Multi Band Spectrum Prediction | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10251662/) · [Code](https://github.com/TLTLHILL/A-GCRNN-for-spectrum-prediction) |
 | 2023 | Multi-Agent Reinforcement Learning Resources Allocation Method Using Dueling Double Deep Q Network in Vehicular Networks | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10123947) · [Code](https://github.com/Ljyx1/paper-codes/tree/master) |
-
----
-
-## 中文
-
-### 🔬 研究组简介
-
-本团队聚焦于**物理层安全**与**智能无线通信**，主要研究方向包括：
-
-| 研究方向 | 说明 |
-|---------|------|
-| **SEI / RFF** | 特定发射机识别与射频指纹 |
-| **AMC / WTR** | 自动调制分类与无线技术识别 |
-| **无线通信** | 功率放大器建模、波束预测 |
-| **泛在感知** | 室内定位、活动识别、场景识别 |
-| **网络安全** | 恶意流量分类、设备识别 |
-| **遥感处理** | 多模态土地分类、道路提取 |
-| **频谱与资源** | 频谱预测、资源分配 |
-
-（论文列表请参见上方英文部分 / See English section above for publication list）
 
 ---
 
