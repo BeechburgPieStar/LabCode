@@ -14,8 +14,8 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 |---------------|-------------|
 | **SEI / RFF** | Specific Emitter Identification & RF Fingerprinting |
 | **AMC / WTR** | Automatic Modulation Classification & Wireless Technology Recognition |
-| **Wireless Communications** | Power Amplifier Modeling, Beam Prediction, Localization |
-| **Ubiquitous Sensing** | Indoor Localization, Activity Recognition, Scenario Identification |
+| **Wireless Communications** | Power Amplifier Modeling, Beam Prediction |
+| **Ubiquitous Sensing** | Localization, Activity Recognition, Scenario Identification |
 | **Network Security** | Malware Traffic Classification, Device Identification |
 | **Remote Sensing** | Multimodal Land Cover Classification, Road Extraction |
 | **Spectrum & Resource** | Spectrum Prediction, Resource Allocation |
