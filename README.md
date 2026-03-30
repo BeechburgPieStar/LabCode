@@ -72,7 +72,6 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | 2026 | Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network | IEEE TCE | [Paper](https://ieeexplore.ieee.org/document/11389179) · [Code](https://github.com/BeechburgPieStar/MRDNN) |
 | 2025 | Advancing Multi-Modal Beam Prediction with Cross Modal Feature Enhancement and Dynamic Fusion Mechanism | IEEE Trans. Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10912462) · [Code](https://github.com/zqh112/CMDF) |
 | 2025 | Behavioral Modeling of Power Amplifiers Leveraging Multi-Channel Convolutional Long Short Term Deep Neural Network | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10896855) · [Code](https://github.com/Pt2Mu/Behavioral-Modeling-of-Power-Amplifiers-Leveraging-MCLDNN) |
-| 2025 | Bio-Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G/6G | IEEE Wireless Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11222702) · [Code](https://github.com/zqh112/Near-Field-Positioning--DLNN) |
 | 2023 | Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10050781) · [Code](https://github.com/BeechburgPieStar/Beam-Prediction) |
 
 ---
@@ -82,6 +81,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
 | 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
+| 2025 | Bio-Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G/6G | IEEE Wireless Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11222702) · [Code](https://github.com/zqh112/Near-Field-Positioning--DLNN) |
 | 2025 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE Trans. Wireless Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
 | 2022 | MobileNet and Knowledge Distillation Based Automatic Scenario Recognition Method in Vehicle to Vehicle Systems | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/9802718) · [Code](https://github.com/BeechburgPieStar/V2V-Dataset-for-Scenario-Identification) |
 | 2022 | Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning | IEEE VTC Fall | [Paper](https://ieeexplore.ieee.org/abstract/document/10013044) · [Code](https://github.com/NJUPT-Sivan/Cross-person-HAR) |
@@ -126,7 +126,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 |---------|------|
 | **SEI / RFF** | 特定发射机识别与射频指纹 |
 | **AMC / WTR** | 自动调制分类与无线技术识别 |
-| **无线通信** | 功率放大器建模、波束预测、定位 |
+| **无线通信** | 功率放大器建模、波束预测 |
 | **泛在感知** | 室内定位、活动识别、场景识别 |
 | **网络安全** | 恶意流量分类、设备识别 |
 | **遥感处理** | 多模态土地分类、道路提取 |
