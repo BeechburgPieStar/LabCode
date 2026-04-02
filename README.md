@@ -31,6 +31,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | 2024 | Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10511278) · [Code](https://github.com/BeechburgPieStar/DIR-SEI) |
 | 2024 | Robust Specific Emitter Identification With Sample Selection and Regularization Under Label Noise | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/document/10663350) · [Code](https://github.com/sleepeach/SSR-SEI) |
 | 2024 | Toward Robust Open Set Radio Frequency Signal Identification in Internet of Things Using Hypersphere Manifold Embedding | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10677423) · [Code](https://github.com/lovelymimola/Hypersphere-based-Open-set-RFF) |
+| 2024 | Overcoming Data Limitations: A Few Shot Specific Emitter Identification Method Using Self Supervised Learning and Adversarial Augmentation | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10285131/) · [Code](https://github.com/LIUC-000/SA2SEI) |
 | 2024 | Toward Intelligent Lightweight and Efficient UAV Identification With RF Fingerprinting | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10816100) · [Code](https://github.com/Edith-xx/Papercode_IOTJ) |
 | 2023 | Semi-Supervised Specific Emitter Identification Method Using Metric Adversarial Training | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/document/10026879) · [Code](https://github.com/lovelymimola/MAT-based-SS-SEI) |
 | 2023 | Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10139822) · [Code](https://github.com/lovelymimola/DCR-Based-SemiSEI) |
@@ -43,7 +44,6 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | 2023 | NASEI: Neural Architecture Search Based Specific Emitter Identification Method | IEEE VTC Spring | [Paper](https://ieeexplore.ieee.org/abstract/document/10199409) · [Code](https://github.com/huangyuxuan11/NASEI) |
 | 2022 | Few-Shot Specific Emitter Identification via Deep Metric Ensemble Learning | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/9846906) · [Code](https://github.com/BeechburgPieStar/FS-SEI) |
 | 2021 | An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression | IEEE JSAC | [Paper](https://ieeexplore.ieee.org/abstract/document/9448105) · [Code](https://github.com/BeechburgPieStar/SlimSEI) |
-| 2024 | Overcoming Data Limitations: A Few Shot Specific Emitter Identification Method Using Self Supervised Learning and Adversarial Augmentation | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10285131/) · [Code](https://github.com/LIUC-000/SA2SEI) |
 
 ---
 
