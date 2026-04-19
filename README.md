@@ -23,6 +23,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
 | 2025 | A Comprehensive Survey on Self Supervised Learning for Specific Emitter Identification | IEEE Commun. Surveys Tuts. | [Paper](https://ieeexplore.ieee.org/document/11078425) · [Code](https://github.com/LIUC-000/SSL-SEI_Survey) |
+| 2025 | Robust Cross-Domain Drone RFFI Method Using Domain-Invariant Adversarial Learning and Manifold Regularization | IEEE TCCN | [Paper](https://ieeexplore.ieee.org/document/10966460) · [Code](https://github.com/Edith-xx/DIAL-for-Cross-Domain-UAV-RFFI) |
 | 2025 | Cross-Channel Specific Emitter Identification via Meta-Feature Augmentation-Enhanced Few-Shot Learning | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/11289534) · [Code](https://github.com/lovelymimola/MFA-FSL-IoTJ-Version) |
 | 2025 | Receiver-Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/abstract/document/11123467) · [Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-) |
 | 2025 | Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10816100) · [Code](https://github.com/Edith-xx/Cross-Domain-RFFI) |
