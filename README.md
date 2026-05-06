@@ -22,13 +22,13 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
-| 2025 | A Comprehensive Survey on Self Supervised Learning for Specific Emitter Identification | IEEE Commun. Surveys Tuts. | [Paper](https://ieeexplore.ieee.org/document/11078425) · [Code](https://github.com/LIUC-000/SSL-SEI_Survey) |
+| 2025 | A Comprehensive Survey on Self Supervised Learning for Specific Emitter Identification | IEEE COMST | [Paper](https://ieeexplore.ieee.org/document/11078425) · [Code](https://github.com/LIUC-000/SSL-SEI_Survey) |
 | 2025 | Robust Cross-Domain Drone RFFI Method Using Domain-Invariant Adversarial Learning and Manifold Regularization | IEEE TCCN | [Paper](https://ieeexplore.ieee.org/document/10966460) · [Code](https://github.com/Edith-xx/DIAL-for-Cross-Domain-UAV-RFFI) |
 | 2025 | Cross-Channel Specific Emitter Identification via Meta-Feature Augmentation-Enhanced Few-Shot Learning | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/11289534) · [Code](https://github.com/lovelymimola/MFA-FSL-IoTJ-Version) |
-| 2025 | Receiver-Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/abstract/document/11123467) · [Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-) |
+| 2025 | Receiver-Agnostic Radio Frequency Fingerprinting via Domain Invariant Feature Learning | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/11123467) · [Code](https://github.com/Edith-xx/Receiver-agnostic-RFFI-CL-) |
 | 2025 | Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10816100) · [Code](https://github.com/Edith-xx/Cross-Domain-RFFI) |
-| 2025 | Avoiding Shortcuts: Enhancing Channel Robust Specific Emitter Identification via Single Source Domain Generalization | IEEE Trans. Wireless Commun. | [Paper](https://ieeexplore.ieee.org/document/10847785) · [Code](https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI) |
-| 2025 | Consistency Guided Robust Learning for Content Agnostic Radio Frequency Fingerprinting | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/abstract/document/10857308) · [Code](https://github.com/BeechburgPieStar/CGRL-for-Content-Agnostic-RFF) |
+| 2025 | Avoiding Shortcuts: Enhancing Channel Robust Specific Emitter Identification via Single Source Domain Generalization | IEEE TWC | [Paper](https://ieeexplore.ieee.org/document/10847785) · [Code](https://github.com/BeechburgPieStar/SDG-for-Channel-Robust-SEI) |
+| 2025 | Consistency Guided Robust Learning for Content Agnostic Radio Frequency Fingerprinting | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/10857308) · [Code](https://github.com/BeechburgPieStar/CGRL-for-Content-Agnostic-RFF) |
 | 2024 | Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10511278) · [Code](https://github.com/BeechburgPieStar/DIR-SEI) |
 | 2024 | Robust Specific Emitter Identification With Sample Selection and Regularization Under Label Noise | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/document/10663350) · [Code](https://github.com/sleepeach/SSR-SEI) |
 | 2024 | Toward Robust Open Set Radio Frequency Signal Identification in Internet of Things Using Hypersphere Manifold Embedding | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10677423) · [Code](https://github.com/lovelymimola/Hypersphere-based-Open-set-RFF) |
@@ -37,7 +37,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | 2023 | Semi-Supervised Specific Emitter Identification Method Using Metric Adversarial Training | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/document/10026879) · [Code](https://github.com/lovelymimola/MAT-based-SS-SEI) |
 | 2023 | Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/10139822) · [Code](https://github.com/lovelymimola/DCR-Based-SemiSEI) |
 | 2023 | Interpolative Metric Learning for Few Shot Specific Emitter Identification | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10190130) · [Code](https://github.com/chengJoin/InterML-for-FS-SEI) |
-| 2023 | Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto Encoder | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/abstract/document/10243409) · [Code](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem) |
+| 2023 | Few-Shot Specific Emitter Identification Using Asymmetric Masked Auto Encoder | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/10243409) · [Code](https://github.com/YZS666/A-Method-for-Solving-the-FS-SEI-Problem) |
 | 2023 | Rogue Emitter Detection Using Hybrid Network of Denoising Autoencoder and Deep Metric Learning | IEEE ICC | [Paper](https://arxiv.org/abs/2212.00242) · [Code](https://github.com/yzybeibei/DMNet) |
 | 2023 | Resource Constrained Specific Emitter Identification Using End-to-End Sparse Feature Selection | IEEE GLOBECOM | [Paper](https://ieeexplore.ieee.org/abstract/document/10436740) · [Code](https://github.com/sleepeach/SFS-SEI) |
 | 2023 | Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G | IEEE ICCT | [Paper](https://ieeexplore.ieee.org/document/10419686) · [Code](https://github.com/IcedWatermelonJuice/FS-SEI?tab=readme-ov-file) |
@@ -65,7 +65,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
 | 2026 | Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network | IEEE TCE | [Paper](https://ieeexplore.ieee.org/document/11389179) · [Code](https://github.com/BeechburgPieStar/MRDNN) |
-| 2025 | Advancing Multi-Modal Beam Prediction with Cross Modal Feature Enhancement and Dynamic Fusion Mechanism | IEEE Trans. Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10912462) · [Code](https://github.com/zqh112/CMDF) |
+| 2025 | Advancing Multi-Modal Beam Prediction with Cross Modal Feature Enhancement and Dynamic Fusion Mechanism | IEEE TCom | [Paper](https://ieeexplore.ieee.org/abstract/document/10912462) · [Code](https://github.com/zqh112/CMDF) |
 | 2025 | Behavioral Modeling of Power Amplifiers Leveraging Multi-Channel Convolutional Long Short Term Deep Neural Network | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10896855) · [Code](https://github.com/Pt2Mu/Behavioral-Modeling-of-Power-Amplifiers-Leveraging-MCLDNN) |
 | 2023 | Deep Regularized Waveform Learning for Beam Prediction With Limited Samples in Non-Cooperative mmWave Systems | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/10050781) · [Code](https://github.com/BeechburgPieStar/Beam-Prediction) |
 
@@ -75,9 +75,9 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
-| 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
-| 2025 | Bio-Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G/6G | IEEE Wireless Commun. Lett. | [Paper](https://ieeexplore.ieee.org/document/11222702) · [Code](https://github.com/zqh112/Near-Field-Positioning--DLNN) |
-| 2025 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE Trans. Wireless Commun. | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
+| 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE CL | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
+| 2025 | Bio-Inspired Dendritic Liquid Neural Network for Robust Near Field Positioning in B5G/6G | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11222702) · [Code](https://github.com/zqh112/Near-Field-Positioning--DLNN) |
+| 2025 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE TWC | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
 | 2022 | MobileNet and Knowledge Distillation Based Automatic Scenario Recognition Method in Vehicle to Vehicle Systems | IEEE TVT | [Paper](https://ieeexplore.ieee.org/abstract/document/9802718) · [Code](https://github.com/BeechburgPieStar/V2V-Dataset-for-Scenario-Identification) |
 | 2022 | Cross-Person Activity Recognition Method Using Snapshot Ensemble Learning | IEEE VTC Fall | [Paper](https://ieeexplore.ieee.org/abstract/document/10013044) · [Code](https://github.com/NJUPT-Sivan/Cross-person-HAR) |
 
